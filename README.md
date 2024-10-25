@@ -15,11 +15,16 @@ Storage Management: Set up advanced storage management solutions, such as LVM, S
 
 Technologies Used:
 
-** Linux OS 9.0: Base operating system for all virtual machines.
-** VMware: Virtualization platform for creating and managing virtual machines.
-** Ansible: Automation tool for managing server configuration and deployment.
-** DNF (Dandified YUM): Package manager used for installing and managing software packages.
-** LVM (Logical Volume Manager): Advanced storage management for creating and managing logical volumes.
-** Stratis-pool: A Linux storage management solution for advanced file system management.
-** NAS (Network-Attached Storage): Configured for centralized storage, allowing access over the network.
-** SAN (Storage Area Network): Configured for block-level storage access across multiple servers.
+Primary Tools and Platforms:
+Linux OS 9.0: Base operating system for all virtual machines.
+VMware: Platform for virtualization, creating, and managing virtual machines.
+Ansible: Automation tool for server configuration and deployment.
+
+Package and Storage Management:
+DNF (Dandified YUM): Used for package installation and management.
+LVM (Logical Volume Manager): For creating and managing logical volumes.
+Stratis-pool: Advanced file system and storage management for Linux.
+
+Advance storage solutions:
+NAS (Network-Attached Storage): Centralized storage, accessible over the network.
+SAN (Storage Area Network): Block-level storage access across multiple servers.
