@@ -11,7 +11,7 @@ Key Features:
 3) Load Balancing: Configured load balancing to distribute traffic between servers and ensure high availability and reliability.
 Storage Management: Set up advanced storage management solutions, such as LVM, Stratis-pool, NAS, and SAN, providing scalable and efficient storage.
 4) Centralized Package Management: Set up a DNF server to act as a centralized package repository, ensuring smooth and efficient package updates across all VMs.
-5) User and Permission Management: Configured user accounts, group management, file permissions, and access control lists (ACLs) for enhanced security and control.
+5) User and Permission Management: Configured user accounts, group management, file-Directory permissions, and access control lists (ACLs) for enhanced security and control.
 
 Technologies Used:
 
